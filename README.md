@@ -142,6 +142,8 @@ mvn test
 - The contract- and scenario-based approach surfaced defects in business rules and calculations, showing test plan effectiveness.
 - For CI/headless, run without GUI or with Xvfb; to reproduce Robot issues, run locally with stable focus.
 
-## Credits and license
-- Authors (report): Facundo Criado, Iván Ezequiel Nieto, Juan Cruz Saladino, Gianfranco San Pedro. Original repo: https://github.com/ffacun2/TPTallerProgra1
-- License not specified in the TP.
+## Authors
+- Criado, Facundo
+- Nieto, Iván Ezequiel 
+- Saladino, Juan Cruz
+- San Pedro, Gianfranco

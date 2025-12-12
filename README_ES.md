@@ -140,3 +140,9 @@ mvn test
 - Se cumplieron las pautas: Maven, pruebas de unidad/integración/persistencia/GUI, evidencias y escenarios derivados de tablas de partición.
 - El enfoque por contrato y escenarios permitió detectar defectos en reglas de negocio y cálculos, mostrando eficacia del plan de pruebas.
 - Para CI/headless, ejecutar sin GUI o con Xvfb; para reproducir issues de Robot, correr local con foco estable.
+
+## Authors
+- Criado, Facundo
+- Nieto, Iván Ezequiel 
+- Saladino, Juan Cruz
+- San Pedro, Gianfranco
